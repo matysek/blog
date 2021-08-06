@@ -1,0 +1,4 @@
+baseURL = "https://matysek.github.io/blog/"
+languageCoe = "en-us"
+title = "Martin Zibricky's Notes"
+theme = "ananke"
