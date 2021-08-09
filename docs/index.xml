@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Martin Zibricky&#39;s Notes</title>
-    <link>https://matysek.github.io/blog/</link>
+    <link>https://blog.zibricky.org/</link>
     <description>Recent content on Martin Zibricky&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 06 Aug 2021 15:40:44 +0200</lastBuildDate><atom:link href="https://matysek.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Aug 2021 15:40:44 +0200</lastBuildDate><atom:link href="https://blog.zibricky.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post - Hello world</title>
-      <link>https://matysek.github.io/blog/posts/my-first-post/</link>
+      <link>https://blog.zibricky.org/posts/my-first-post/</link>
       <pubDate>Fri, 06 Aug 2021 15:40:44 +0200</pubDate>
       
-      <guid>https://matysek.github.io/blog/posts/my-first-post/</guid>
+      <guid>https://blog.zibricky.org/posts/my-first-post/</guid>
       <description></description>
     </item>
     

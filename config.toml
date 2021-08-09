@@ -1,4 +1,4 @@
-baseURL = "https://matysek.github.io/blog/"
+baseURL = "https://blog.zibricky.org/"
 languageCoe = "en-us"
 title = "Martin Zibricky's Notes"
 theme = "ananke"
