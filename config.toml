@@ -1,4 +1,4 @@
-baseURL = "https://blog.zibricky.org/"
+baseURL = "https://blog.zibricky.org/blog"
 languageCoe = "en-us"
 title = "Martin Zibricky's Notes"
 theme = "ananke"
