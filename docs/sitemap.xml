@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://blog.zibricky.org/blog/</loc>
+    <loc>https://blog.zibricky.org/</loc>
     <lastmod>2021-08-06T15:40:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zibricky.org/blog/posts/my-first-post/</loc>
+    <loc>https://blog.zibricky.org/posts/my-first-post/</loc>
     <lastmod>2021-08-06T15:40:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zibricky.org/blog/posts/</loc>
+    <loc>https://blog.zibricky.org/posts/</loc>
     <lastmod>2021-08-06T15:40:44+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blog.zibricky.org/blog/categories/</loc>
+    <loc>https://blog.zibricky.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://blog.zibricky.org/blog/tags/</loc>
+    <loc>https://blog.zibricky.org/tags/</loc>
   </url>
   
 </urlset>
