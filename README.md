@@ -35,3 +35,8 @@ index 2d6a91d..ce48112 160000
 +Subproject commit ce48112de29f91330ec4da2bfb7ed14d0ee1a19f
 ```
 
+To create a blog post copy a template to `content/posts` like this
+
+```bash
+cp blogpost-template.md  content/posts/MY_NEW_BLOGPOST.md
+```
