@@ -40,3 +40,9 @@ To create a blog post copy a template to `content/posts` like this
 ```bash
 cp blogpost-template.md  content/posts/MY_NEW_BLOGPOST.md
 ```
+
+Directories
+
+* `docs` contain static html files that are served as blog.
+* `content/posts` contain Markdown files for blog posts
+
